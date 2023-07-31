@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-45b8d8?style=flat-square&logo=ansible&logoColor=white" />
@@ -8,7 +8,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-5849BE?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-430098?style=flat-square&logo=jenkins&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-764ABC?style=flat-square&logo=AWS&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-764ABC?style=flat-square&logo=AmazonAWS&logoColor=white" />
 </p>
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-CCIE&layout=compact&theme=blue-green)
