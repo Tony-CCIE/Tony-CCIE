@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-764ABC?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-45b8d8?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-2088FF?style=flat-square&logo=python&logoColor=white" />
